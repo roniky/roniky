@@ -1,7 +1,6 @@
+<img width = 100% src="http://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=102,149,229,2,30height=120&section=header" />
 
-
-
-### Olá! sou o roniky🙃
+![Texto SVg](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Roniky+almeida;Tenho+20+anos;)
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roni-almeida-41a39a263)
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/liu_seila)
