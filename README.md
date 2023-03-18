@@ -3,9 +3,9 @@
 
 ### Olá! sou o roniky🙃
 
-[![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://whatsapp.com/85998243570)
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roni-almeida-41a39a263)
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/liu_seila)
-[![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/luffynho#6634)
+[![blog](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](http://reddit.com/u/luffyynho)
 
 
 ![Roniky GitHub stats](https://github-readme-stats.vercel.app/api?username=roniky&show_icons=true&theme=tokyonight)
